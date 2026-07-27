@@ -21,12 +21,13 @@ Cada curso possui sua própria seção com módulos organizados, arquivos de tó
 
 ## 📚 Sumário (Table of Contents)
 
-| Curso | Certificado |
-|-------|-------------|
-| **[AWS Technical Essentials](./aws-essentials/README.md)** | [![Certificado AWS Technical Essentials](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-essentials/assets/aws-essentials-certificate_png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-essentials/assets/aws-essentials-certificate.pdf) |
-| **[AWS Artificial Intelligence Practitioner Learning Plan](./aws-ai-practitioner/README.md)** *(planejado)* | ⏳ Pendente |
-| AWS Cloud Practitioner Essentials | ⏳ Pendente |
-| AWS Solutions Architect – Associate | ⏳ Pendente |
+| Curso | Status | Link |
+|-------|--------|------|
+| **[AWS Technical Essentials](./aws-essentials/README.md)** | ✅ Concluído | [Ver curso](./aws-essentials/README.md) |
+| **[AWS Artificial Intelligence Practitioner Learning Plan](./aws-ai-practitioner/README.md)** | 🔄 Em andamento | [Ver plano](./aws-ai-practitioner/README.md) |
+| AWS Cloud Practitioner Essentials | ⏳ Pendente | — |
+| AWS Solutions Architect – Associate | ⏳ Pendente | — |
+
 ---
 
 ## 🗺️ Roadmap de Certificações
@@ -42,10 +43,13 @@ Cada curso possui sua própria seção com módulos organizados, arquivos de tó
       └── IAM, EC2, S3, VPC, RDS, DynamoDB, Lambda, CloudWatch
       └── STATUS: ✅ CONCLUÍDO
 
-  [2] AWS Artificial Intelligence Practitioner Learning Plan  ← PRÓXIMO PASSO
-      └── Conceitos de IA/ML na AWS
-      └── Amazon Bedrock, SageMaker, Rekognition, Comprehend
-      └── STATUS: 🔄 EM PLANEJAMENTO
+  [2] AWS Artificial Intelligence Practitioner Learning Plan  ← ATUAL
+      └── Fundamentos de ML e IA
+      └── IA Generativa
+      └── Modelos de Base
+      └── IA Responsável
+      └── Segurança e Governança
+      └── STATUS: 🔄 EM ANDAMENTO
 
   [3] AWS Cloud Practitioner Essentials
       └── STATUS: ⏳ PENDENTE
@@ -81,8 +85,14 @@ aws-skills/
 │   ├── module-05-databases/               # Módulo 5
 │   ├── module-06-monitoring-optimization-and-serverless/  # Módulo 6
 │   └── module-07-course-summary/          # Módulo 7
-├── aws-ai-practitioner/                   # Curso: AWS AI Practitioner (planejado)
-└── aws-cloud-practitioner/                # Curso: AWS Cloud Practitioner (planejado)
+├── aws-ai-practitioner/                   # Plano de Estudos AWS AI Practitioner 🔄
+│   ├── README.md                          # README do plano de estudos
+│   └── fundamentals-ml-ai/                # Módulo 1: Fundamentos de ML e IA
+├── docs/                                  # Documentação oficial em PDF
+│   ├── aif-c01-exam-guide.pdf             # Guia de exame AIF-C01
+│   └── aws-technical-essentials.pdf       # Curso AWS Technical Essentials
+├── aws-cloud-practitioner/                # Curso: AWS Cloud Practitioner (planejado)
+└── aws-solutions-architect/               # Curso: AWS Solutions Architect (planejado)
 ```
 
 ---
