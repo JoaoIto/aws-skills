@@ -2,6 +2,8 @@
 
 > **Curso Oficial AWS | Duração: ~6 horas | Nível: Fundamental**
 
+<img src="https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-essentials/assets/aws-essentials-certificate_png.png"/>
+
 ---
 
 ## 📖 Resumo Técnico
