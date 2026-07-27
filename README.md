@@ -21,8 +21,6 @@ Cada curso possui sua própria seção com módulos organizados, arquivos de tó
 
 ## 📚 Sumário (Table of Contents)
 
-## 📚 Sumário (Table of Contents)
-
 | Curso | Certificado |
 |-------|-------------|
 | **[AWS Technical Essentials](./aws-essentials/README.md)** | [![Certificado AWS Technical Essentials](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-essentials/assets/aws-essentials-certificate_png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-essentials/assets/aws-essentials-certificate.pdf) |
