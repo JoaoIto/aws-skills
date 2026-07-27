@@ -16,7 +16,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 
 | Módulo | Status | Link |
 |--------|--------|------|
-| **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Em andamento | [fundamentals-ml-ai/fundamentals-ml-ai.md](./fundamentals-ml-ai/fundamentals-ml-ai.md) |
+| **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Em andamento | [fundamentals-ml-ai/fundamentals-ml-ai.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/readme.md) |
 | Fundamentals of Generative AI | ⏳ Pendente | — |
 | Applications of Foundation Models | ⏳ Pendente | — |
 | Guidelines for Responsible AI | ⏳ Pendente | — |
