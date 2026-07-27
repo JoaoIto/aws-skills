@@ -133,6 +133,15 @@ Este curso é parte do roadmap de certificações AWS e sua conclusção represe
 
 ---
 
+## 📚 Recursos de Preparação para Exames
+
+| Recurso | Descrição | Link |
+|---------|-----------|------|
+| **Guia de Preparação para o Exame** | Especificações oficiais, matriz de domínios, dicas de ouro | [exam-preparation.md](./exam-preparation.md) |
+| **Simulado AWS Technical Essentials** | 25 questões com gabarito e explicações | [practice-exam.md](./practice-exam.md) |
+
+---
+
 ## 🔗 Referências Oficiais
 
 - **AWS Skill Builder - AWS Technical Essentials**: https://explore.skillbuilder.aws/learn/course/1851/aws-technical-essentials

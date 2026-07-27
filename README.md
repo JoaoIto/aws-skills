@@ -69,6 +69,8 @@ aws-skills/
 ├── README.md                              # Este arquivo (raiz)
 ├── aws-essentials/                        # Curso: AWS Technical Essentials ✅
 │   ├── README.md                          # README do curso
+│   ├── exam-preparation.md                # Guia de preparação para o exame CLF-C02
+│   ├── practice-exam.md                   # Simulado com 25 questões
 │   ├── setup-directories.sh               # Script de criação de diretórios
 │   ├── assets/                            # Certificados e recursos estáticos
 │   │   └── aws-essentials-certificate.pdf # Certificado do curso
