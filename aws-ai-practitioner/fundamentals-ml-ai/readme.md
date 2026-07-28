@@ -1,5 +1,9 @@
 # 🤖 Fundamentos de Machine Learning e Inteligência Artificial
 
+| Certificado | Certificado |
+| :--- | :---: |
+| **Fundamentals of Machine Learning and Artificial Intelligence** (AWS) | [![Fundamentals of Machine Learning and Artificial Intelligence](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/fundamentals-ml-ai/docs/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/docs/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence.pdf) |
+
 > **Curso: Fundamentals of Machine Learning and Artificial Intelligence | Plano de Estudos AWS AI Practitioner | Nível: Fundamental**
 
 ---
