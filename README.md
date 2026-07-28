@@ -1,4 +1,16 @@
-# 🌐 AWS Skills Repository
+# ☁️ AWS Skills Repository
+
+<p align="center">
+  <a href="https://github.com/JoaoIto/aws-skills">
+    <img src="https://img.shields.io/badge/AWS%20Skill%20Builder-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Technical Essentials">
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
+    <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified AI Practitioner">
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner">
+  </a>
+</p>
 
 > **Repositório Técnico de Estudos | AWS Cloud Practitioner & Beyond**
 
