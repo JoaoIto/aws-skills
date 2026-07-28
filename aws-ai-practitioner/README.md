@@ -1,4 +1,4 @@
-so# 🤖 AWS Artificial Intelligence Practitioner
+# 🤖 AWS Artificial Intelligence Practitioner
 
 > **Plano de Estudos AWS | Nível: Fundamental | Próximo passo após AWS Technical Essentials**
 
