@@ -1,5 +1,9 @@
 # 🤝 Diretrizes para IA Responsável
 
+| Certificado | Certificado |
+| :--- | :---: |
+| **Guidelines for Responsible AI** (AWS) | [![Guidelines for Responsible AI](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI.pdf) |
+
 > **Curso: Guidelines for Responsible AI | Plano de Estudos AWS AI Practitioner | Nível: Fundamental**
 
 ---
@@ -431,6 +435,7 @@ A curadoria de conjuntos de dados é o processo de rotular, organizar e pré-pro
 
 - **AWS Certified AI Practitioner (AIF-C01) Exam Guide**: https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf
 - **AWS Skill Builder - AI Practitioner Learning Plan**: https://explore.skillbuilder.aws/
+- **📄 Certificado do Curso (PDF)**: [Guidelines for Responsible AI](./docs/responsible-AI.pdf)
 - **AWS AI Services**: https://aws.amazon.com/ai/
 - **Amazon SageMaker Documentation**: https://docs.aws.amazon.com/sagemaker/
 - **Amazon Bedrock Documentation**: https://docs.aws.amazon.com/bedrock/
