@@ -136,6 +136,7 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
 | Módulo | Status | Link |
 |--------|--------|------|
 | **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Em andamento | [fundamentals-ml-ai/fundamentals-ml-ai.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/readme.md) |
+| **Exploring Artificial Intelligence Use Cases and Applications** | ✅ Concluído | [use-cases/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/use-cases/readme.md) |
 | Fundamentals of Generative AI | ⏳ Pendente | — |
 | Applications of Foundation Models | ⏳ Pendente | — |
 | Guidelines for Responsible AI | ⏳ Pendente | — |
@@ -155,6 +156,7 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
 
   [2] AWS Artificial Intelligence Practitioner Learning Plan  ← ATUAL
       └── Fundamentos de ML e IA
+      └── Casos de Uso de IA
       └── IA Generativa
       └── Modelos de Base
       └── IA Responsável
@@ -177,10 +179,12 @@ aws-ai-practitioner/
 ├── README.md                              # Este arquivo
 ├── fundamentals-ml-ai/                    # Módulo 1
 │   └── fundamentals-ml-ai.md              # Documentação técnica
-├── generative-ai/                         # Módulo 2 (planejado)
-├── foundation-models/                     # Módulo 3 (planejado)
-├── responsible-ai/                        # Módulo 4 (planejado)
-└── security-governance/                   # Módulo 5 (planejado)
+├── use-cases/                             # Módulo 2
+│   └── readme.md                          # Documentação técnica
+├── generative-ai/                         # Módulo 3 (planejado)
+├── foundation-models/                     # Módulo 4 (planejado)
+├── responsible-ai/                        # Módulo 5 (planejado)
+└── security-governance/                   # Módulo 6 (planejado)
 ```
 
 ---

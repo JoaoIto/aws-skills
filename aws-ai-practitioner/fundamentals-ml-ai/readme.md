@@ -13,8 +13,8 @@
 O curso **Fundamentals of Machine Learning and Artificial Intelligence** é o primeiro módulo do **Plano de Estudos AWS Artificial Intelligence Practitioner**. Ele fornece uma introdução abrangente aos conceitos fundamentais de IA e ML, diferenciando claramente Inteligidade Artificial (IA), Machine Learning (ML) e Deep Learning (DL), e apresentando o ciclo de vida completo de um projeto de ML na AWS.
 
 Este documento é baseado **exclusivamente** na documentação oficial da AWS:
-- [AWS Certified AI Practitioner (AIF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf) ([PDF local](./docs/aif-c01-exam-guide.pdf))
-- [AWS Technical Essentials](https://d1.awsstatic.com/training-and-certification/classroom-training/aws-technical-essentials.pdf) ([PDF local](./docs/aws-technical-essentials.pdf))
+- [AWS Certified AI Practitioner (AIF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
+- [AWS Technical Essentials](https://d1.awsstatic.com/training-and-certification/classroom-training/aws-technical-essentials.pdf)
 - [AWS Skill Builder - AI Practitioner Learning Plan](https://explore.skillbuilder.aws/)
 
 ---
@@ -421,9 +421,10 @@ flowchart LR
 
 ## 🔗 Referências Oficiais
 
-- **AWS Certified AI Practitioner (AIF-C01) Exam Guide**: https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf ([PDF local](./docs/aif-c01-exam-guide.pdf))
-- **AWS Technical Essentials**: https://d1.awsstatic.com/training-and-certification/classroom-training/aws-technical-essentials.pdf ([PDF local](./docs/aws-technical-essentials.pdf))
+- **AWS Certified AI Practitioner (AIF-C01) Exam Guide**: https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf
+- **AWS Technical Essentials**: https://d1.awsstatic.com/training-and-certification/classroom-training/aws-technical-essentials.pdf
 - **AWS Skill Builder - AI Practitioner Learning Plan**: https://explore.skillbuilder.aws/
+- **📄 Certificado do Curso (PDF)**: [Fundamentals of Machine Learning and Artificial Intelligence](./docs/Fundamentals of Machine Learning and Artificial Intelligence.pdf)
 - **Amazon SageMaker Documentation**: https://docs.aws.amazon.com/sagemaker/
 - **AWS AI Services**: https://aws.amazon.com/ai/
 - **AWS Well-Architected Framework**: https://aws.amazon.com/architecture/well-architected/
