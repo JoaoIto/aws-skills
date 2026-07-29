@@ -137,9 +137,9 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
 |--------|--------|------|
 | **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Em andamento | [fundamentals-ml-ai/fundamentals-ml-ai.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/readme.md) |
 | **Exploring Artificial Intelligence Use Cases and Applications** | ✅ Concluído | [use-cases/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/use-cases/readme.md) |
+| **Guidelines for Responsible AI** | ✅ Concluído | [responsible-AI/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/readme.md) |
 | Fundamentals of Generative AI | ⏳ Pendente | — |
 | Applications of Foundation Models | ⏳ Pendente | — |
-| Guidelines for Responsible AI | ⏳ Pendente | — |
 | Security, Compliance, and Governance | ⏳ Pendente | — |
 
 ---
@@ -183,7 +183,8 @@ aws-ai-practitioner/
 │   └── readme.md                          # Documentação técnica
 ├── generative-ai/                         # Módulo 3 (planejado)
 ├── foundation-models/                     # Módulo 4 (planejado)
-├── responsible-ai/                        # Módulo 5 (planejado)
+├── responsible-ai/                        # Módulo 5
+│   └── readme.md                          # Documentação técnica
 └── security-governance/                   # Módulo 6 (planejado)
 ```
 
