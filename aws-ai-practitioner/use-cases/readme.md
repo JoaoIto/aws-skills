@@ -1,5 +1,10 @@
 # 🎯 Explorando Casos de Uso e Aplicações de Inteligência Artificial
 
+
+| Certificado | Certificado |
+| :--- | :---: |
+| **Exploring Artificial Intelligence Use Cases and Applications** (AWS) | [![Exploring Artificial Intelligence Use Cases and Applications](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/use-cases/docs/Exploring%20Artificial%20Intelligence%20Use%20Cases%20and%20Applications-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/use-cases/docs/Exploring%20Artificial%20Intelligence%20Use%20Cases%20and%20Applications.pdf) |
+
 > **Curso: Exploring Artificial Intelligence Use Cases and Applications | Plano de Estudos AWS AI Practitioner | Nível: Fundamental**
 
 ---
