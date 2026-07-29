@@ -144,6 +144,19 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
 
 ---
 
+## 📜 Certificados e PDFs
+
+| Curso | Certificado | PDF |
+|-------|-------------|-----|
+| **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Pronto | [Ver PDF](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/docs/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence.pdf) |
+| **Exploring Artificial Intelligence Use Cases and Applications** | ⏳ Pendente | — |
+| **Guidelines for Responsible AI** | ✅ Pronto | [Ver PDF](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI.pdf) |
+| Fundamentals of Generative AI | ⏳ Pendente | — |
+| Applications of Foundation Models | ⏳ Pendente | — |
+| Security, Compliance, and Governance | ⏳ Pendente | — |
+
+---
+
 ## 🗺️ Roadmap de Certificações
 
 ```
