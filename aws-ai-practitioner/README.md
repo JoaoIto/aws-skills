@@ -16,7 +16,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 
 | Módulo | Status | Link |
 |--------|--------|------|
-| **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Em andamento | [fundamentals-ml-ai/fundamentals-ml-ai.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/readme.md) |
+| **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Concluído | [fundamentals-ml-ai/fundamentals-ml-ai.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/readme.md) |
 | **Exploring Artificial Intelligence Use Cases and Applications** | ✅ Concluído | [use-cases/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/use-cases/readme.md) |
 | **Guidelines for Responsible AI** | ✅ Concluído | [responsible-AI/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/readme.md) |
 | Fundamentals of Generative AI | ⏳ Pendente | — |
