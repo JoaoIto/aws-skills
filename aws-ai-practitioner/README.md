@@ -1,4 +1,4 @@
-# 🤖 AWS Artificial Intelligence Practitioner
+🤖 AWS Artificial Intelligence Practitioner
 
 > **Plano de Estudos AWS | Nível: Fundamental | Próximo passo após AWS Technical Essentials**
 
@@ -19,6 +19,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 | **Fundamentals of Machine Learning and Artificial Intelligence** | ✅ Concluído | [fundamentals-ml-ai/fundamentals-ml-ai.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/readme.md) |
 | **Exploring Artificial Intelligence Use Cases and Applications** | ✅ Concluído | [use-cases/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/use-cases/readme.md) |
 | **Guidelines for Responsible AI** | ✅ Concluído | [responsible-AI/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/readme.md) |
+| **Developing Machine Learning Solutions** | ✅ Concluído | [developing-ML-solutions/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/readme.md) |
 | Fundamentals of Generative AI | ⏳ Pendente | — |
 | Applications of Foundation Models | ⏳ Pendente | — |
 | Security, Compliance, and Governance | ⏳ Pendente | — |
@@ -32,6 +33,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 | **Fundamentals of Machine Learning and Artificial Intelligence** | [<img src="https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/fundamentals-ml-ai/docs/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence-png.png" width="100"/>](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/docs/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence.pdf) |
 | **Exploring Artificial Intelligence Use Cases and Applications** | [<img src="https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/use-cases/docs/Exploring%20Artificial%20Intelligence%20Use%20Cases%20and%20Applications-png.png" width="100"/>](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/use-cases/docs/Exploring%20Artificial%20Intelligence%20Use%20Cases%20and%20Applications.pdf) |
 | **Guidelines for Responsible AI** | [<img src="https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI-png.png" width="100"/>](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI.pdf) |
+| **Developing Machine Learning Solutions** | [![Developing Machine Learning Solutions](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/developing-ML-solutions/docs/Developing%20Machine%20Learning%20Solutions-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/docs/Developing%20Machine%20Learning%20Solutions.pdf) |
 | Fundamentals of Generative AI | ⏳ Pendente |
 | Applications of Foundation Models | ⏳ Pendente |
 | Security, Compliance, and Governance | ⏳ Pendente |
@@ -173,6 +175,7 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
       └── IA Generativa
       └── Modelos de Base
       └── IA Responsável
+      └── Desenvolvimento de Soluções de ML
       └── Segurança e Governança
       └── STATUS: 🔄 EM ANDAMENTO
 
@@ -198,7 +201,9 @@ aws-ai-practitioner/
 ├── foundation-models/                     # Módulo 4 (planejado)
 ├── responsible-ai/                        # Módulo 5
 │   └── readme.md                          # Documentação técnica
-└── security-governance/                   # Módulo 6 (planejado)
+├── developing-ML-solutions/               # Módulo 6 (novo)
+│   └── readme.md                          # Documentação técnica
+└── security-governance/                   # Módulo 7 (planejado)
 ```
 
 ---
