@@ -2,7 +2,7 @@
 
 | Certificado | Certificado |
 | :--- | :---: |
-| **Developing Machine Learning Solutions** (AWS) | [![Developing Machine Learning Solutions](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/developing-ML-solutions/docs/Developing%20Machine%20Learning%20Solutions-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/docs/Developing%20Machine%20Learning%20Solutions.pdf) |
+| **Developing Machine Learning Solutions** (AWS) | [![Developing Machine Learning Solutions](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/developing-ML-solutions/docs/Developing%20Machine%20Learning%20Solutions-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/docs/AWS-developing-ML-solutions.pdf) |
 
 > **Curso: Developing Machine Learning Solutions | Plano de Estudos AWS AI Practitioner | Nível: Fundamental**
 
