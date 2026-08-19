@@ -2,7 +2,7 @@
 
 | Certificado | Certificado |
 | :--- | :---: |
-| **Optimizing Foundation Models** (AWS) | [![Optimizing Foundation Models](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/optimizing-foundation-models/docs/Optimizing-Foundation-Models-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/optimizing-foundation-models/docs/Optimizing-Foundation-Models.pdf) |
+| **Optimizing Foundation Models** (AWS) | [![Optimizing Foundation Models](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/optimizing-foundation-models/docs/optimizing-foundation-models-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/optimizing-foundation-models/docs/Optimizing-Foundation-Models.pdf) |
 
 > **Curso: Optimizing Foundation Models | Plano de Estudos AWS AI Practitioner | Nível: Fundamental**
 
