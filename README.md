@@ -36,7 +36,7 @@ Cada curso possui sua própria seção com módulos organizados, arquivos de tó
 | Curso | Certificado |
 |-------|-------------|
 | **[AWS Technical Essentials](./aws-essentials/README.md)** | [![Certificado AWS Technical Essentials](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-essentials/assets/aws-essentials-certificate_png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-essentials/assets/aws-essentials-certificate.pdf) |
-| **[AWS Artificial Intelligence Practitioner Learning Plan](./aws-ai-practitioner/README.md)** | 🔄 Em andamento | [Ver plano](./aws-ai-practitioner/README.md) |
+| **[AWS Artificial Intelligence Practitioner Learning Plan](./aws-ai-practitioner/README.md)** | [![Certificado AWS Artificial Intelligence Practitioner](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/aws-ai-practitioner-certificate-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/aws-ai-practitioner-certificate.pdf) |
 | AWS Cloud Practitioner Essentials | ⏳ Pendente |
 | AWS Solutions Architect – Associate | ⏳ Pendente |
 
