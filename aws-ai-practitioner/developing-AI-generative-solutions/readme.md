@@ -2,7 +2,7 @@
 
 | Certificado | Certificado |
 | :--- | :---: |
-| **Fundamentals of Generative AI** (AWS) | [<img src="https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/developing-AI-generative-solutions/docs/fundamentals-of-generative-ai-png.png" width="100"/>](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-AI-generative-solutions/docs/fundamentals-of-generative-ai.pdf) |
+| **Fundamentals of Generative AI** (AWS) | [<img src="https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/developing-AI-generative-solutions/docs/developing-AI-generative-solutions-png.png" width="100"/>](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-AI-generative-solutions/docs/developing-AI-generative-solutions.pdf) |
 
 > **Curso: Fundamentals of Generative AI | Plano de Estudos AWS AI Practitioner | Nível: Fundamental**
 
