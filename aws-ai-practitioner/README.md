@@ -22,7 +22,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 | **Developing Machine Learning Solutions** | ✅ Concluído | [developing-ML-solutions/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/readme.md) |
 | **Fundamentals of Generative AI** | ✅ Concluído | [developing-AI-generative-solutions/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-AI-generative-solutions/readme.md) |
 | **Applications of Foundation Models** | ✅ Concluído | [optimizing-foundation-models/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/optimizing-foundation-models/readme.md) |
-| Security, Compliance, and Governance | ⏳ Pendente | — |
+| **Security, Compliance, and Governance** | ✅ Concluído | [security-AI/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/security-AI/readme.md) |
 
 ---
 
@@ -36,7 +36,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 | **Developing Machine Learning Solutions** (AWS) | [![Developing Machine Learning Solutions](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/developing-ML-solutions/docs/AWS-developing-ML-solutions.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/docs/AWS-developing-ML-solutions.pdf) |
 | Fundamentals of Generative AI | ⏳ Pendente |
 | Applications of Foundation Models | ✅ Concluído |
-| Security, Compliance, and Governance | ⏳ Pendente |
+| Security, Compliance, and Governance | ✅ Concluído |
 ---
 
 ## 🏗️ Base da Infraestrutura de IA e ML na AWS
@@ -207,7 +207,9 @@ aws-ai-practitioner/
 │   └── docs/                              # Certificados
 ├── optimizing-foundation-models/          # Módulo 8 ✅
 │   └── readme.md                          # Documentação técnica
-└── security-governance/                   # Módulo 9 (planejado)
+├── security-AI/                           # Módulo 9 ✅
+│   └── readme.md                          # Documentação técnica
+└── security-governance/                   # Módulo 10 (planejado)
 ```
 
 ---
