@@ -21,7 +21,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 | **Guidelines for Responsible AI** | ✅ Concluído | [responsible-AI/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/readme.md) |
 | **Developing Machine Learning Solutions** | ✅ Concluído | [developing-ML-solutions/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/readme.md) |
 | **Fundamentals of Generative AI** | ✅ Concluído | [developing-AI-generative-solutions/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-AI-generative-solutions/readme.md) |
-| Applications of Foundation Models | ⏳ Pendente | — |
+| **Applications of Foundation Models** | ✅ Concluído | [optimizing-foundation-models/readme.md](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/optimizing-foundation-models/readme.md) |
 | Security, Compliance, and Governance | ⏳ Pendente | — |
 
 ---
@@ -35,7 +35,7 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 | **Guidelines for Responsible AI** | [![Guidelines for Responsible AI](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI.pdf) |
 | **Developing Machine Learning Solutions** (AWS) | [![Developing Machine Learning Solutions](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/developing-ML-solutions/docs/AWS-developing-ML-solutions.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/developing-ML-solutions/docs/AWS-developing-ML-solutions.pdf) |
 | Fundamentals of Generative AI | ⏳ Pendente |
-| Applications of Foundation Models | ⏳ Pendente |
+| Applications of Foundation Models | ✅ Concluído |
 | Security, Compliance, and Governance | ⏳ Pendente |
 ---
 
@@ -205,7 +205,9 @@ aws-ai-practitioner/
 ├── developing-AI-generative-solutions/    # Módulo 7 ✅
 │   ├── readme.md                          # Documentação técnica
 │   └── docs/                              # Certificados
-└── security-governance/                   # Módulo 8 (planejado)
+├── optimizing-foundation-models/          # Módulo 8 ✅
+│   └── readme.md                          # Documentação técnica
+└── security-governance/                   # Módulo 9 (planejado)
 ```
 
 ---
