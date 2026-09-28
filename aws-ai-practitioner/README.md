@@ -1,6 +1,22 @@
-🤖 AWS Artificial Intelligence Practitioner
+# 🎓 AWS Certified AI Practitioner (AIF-C01)
 
-> **Plano de Estudos AWS | Nível: Fundamental | Próximo passo após AWS Technical Essentials**
+<p align="center">
+  <a href="https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url" target="_blank">
+    <img src="./docs/aws-certified-ai-practitioner.png" width="180" alt="AWS Certified AI Practitioner Badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url">
+    <img src="https://img.shields.io/badge/Credly-Badge%20Verificado-FF9900?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge">
+  </a>
+  <a href="./docs/AWS%20Certified%20AI%20Practitioner%20certificate.pdf">
+    <img src="https://img.shields.io/badge/Certificado-PDF%20Oficial-232F3E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Certificate">
+  </a>
+  <img src="https://img.shields.io/badge/Status-✅%20Certificado-success?style=for-the-badge" alt="Status Certificado">
+</p>
+
+> **Plano de Estudos & Certificação Oficial AWS | Nível: Foundational | Status: ✅ Concluído e Certificado**
 
 ---
 
@@ -26,10 +42,11 @@ Este plano de estudos é o **próximo passo** após a conclusão do curso **AWS 
 
 ---
 
-## 📜 Certificados e PDFs
+## 📜 Certificados e Comprovações
 
-| Curso | Certificado |
+| Certificação / Curso | Certificado / Badge |
 |---|---|
+| **AWS Certified AI Practitioner (AIF-C01)** | [![AWS Certified AI Practitioner Badge](./docs/aws-certified-ai-practitioner.png)](https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url) <br> 🏅 [Credly Badge](https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url) • 📄 [Certificado PDF](./docs/AWS%20Certified%20AI%20Practitioner%20certificate.pdf) |
 | **Fundamentals of Machine Learning and Artificial Intelligence** | [![Fundamentals of Machine Learning and Artificial Intelligence](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/fundamentals-ml-ai/docs/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/fundamentals-ml-ai/docs/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence.pdf) |
 | **Exploring Artificial Intelligence Use Cases and Applications** | [![Exploring Artificial Intelligence Use Cases and Applications](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/use-cases/docs/Exploring%20Artificial%20Intelligence%20Use%20Cases%20and%20Applications-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/use-cases/docs/Exploring%20Artificial%20Intelligence%20Use%20Cases%20and%20Applications.pdf) |
 | **Guidelines for Responsible AI** | [![Guidelines for Responsible AI](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI-png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-ai-practitioner/responsible-AI/docs/responsible-AI.pdf) |
@@ -168,7 +185,7 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
   [1] AWS Technical Essentials
       └── STATUS: ✅ CONCLUÍDO
 
-  [2] AWS Artificial Intelligence Practitioner Learning Plan  ← ATUAL
+  [2] AWS Certified AI Practitioner (AIF-C01)
       └── Fundamentos de ML e IA
       └── Casos de Uso de IA
       └── IA Generativa
@@ -176,9 +193,9 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
       └── IA Responsável
       └── Desenvolvimento de Soluções de ML
       └── Segurança e Governança
-      └── STATUS: 🔄 EM ANDAMENTO
+      └── STATUS: ✅ CONCLUÍDO (Certificação Conquistada!)
 
-  [3] AWS Cloud Practitioner Essentials
+  [3] AWS Cloud Practitioner Essentials  ← ATUAL / PRÓXIMO PASSO
       └── STATUS: ⏳ PENDENTE
 
   [4] AWS Solutions Architect – Associate
@@ -192,15 +209,19 @@ O uso de modelos personalizados (fine-tuning ou modelos próprios) pode oferecer
 ```
 aws-ai-practitioner/
 ├── README.md                              # Este arquivo
+├── docs/                                  # Certificado oficial (PDF) e Badge (PNG)
+│   ├── README.md                          # Detalhes da certificação
+│   ├── AWS Certified AI Practitioner certificate.pdf
+│   └── aws-certified-ai-practitioner.png
 ├── fundamentals-ml-ai/                    # Módulo 1
-│   └── fundamentals-ml-ai.md              # Documentação técnica
+│   └── readme.md                          # Documentação técnica
 ├── use-cases/                             # Módulo 2
 │   └── readme.md                          # Documentação técnica
 ├── generative-ai/                         # Módulo 3 (planejado)
 ├── foundation-models/                     # Módulo 4 (planejado)
 ├── responsible-ai/                        # Módulo 5
 │   └── readme.md                          # Documentação técnica
-├── developing-ML-solutions/               # Módulo 6 (novo)
+├── developing-ML-solutions/               # Módulo 6
 │   └── readme.md                          # Documentação técnica
 └── security-governance/                   # Módulo 7 (planejado)
 ```
@@ -212,9 +233,16 @@ aws-ai-practitioner/
 | Detalhe | Informação |
 |---------|------------|
 | **Certificação** | AWS Certified AI Practitioner (AIF-C01) |
-| **Plataforma** | AWS Skill Builder |
-| **Status** | 🔄 Em andamento |
-| **Guia de Exame** | [Ver PDF oficial](../docs/aif-c01-exam-guide.pdf) |
+| **Profissional** | João Victor Póvoa França |
+| **Nível** | Foundational |
+| **Status** | ✅ Concluído e Certificado |
+| **Data de Emissão** | 27 de Setembro de 2026 |
+| **Data de Expiração** | 27 de Setembro de 2029 |
+| **ID de Validação AWS** | `da4f38e0ebc946e895537f4f07738920` |
+| **Validação Oficial AWS** | [aws.amazon.com/verification](https://aws.amazon.com/verification) |
+| **Badge Oficial no Credly** | [Ver Badge no Credly](https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url) |
+| **Certificado Digital (PDF)** | [Visualizar / Download PDF](./docs/AWS%20Certified%20AI%20Practitioner%20certificate.pdf) |
+| **Guia de Exame Oficial** | [Ver PDF oficial](../docs/aif-c01-exam-guide.pdf) |
 
 ---
 

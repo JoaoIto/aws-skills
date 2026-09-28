@@ -1,11 +1,23 @@
 # ☁️ AWS Skills Repository
 
 <p align="center">
-  <a href="https://github.com/JoaoIto/aws-skills">
-    <img src="https://img.shields.io/badge/AWS%20Skill%20Builder-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Technical Essentials">
+  <a href="https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url" target="_blank">
+    <img src="./aws-ai-practitioner/docs/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner Badge" width="210">
   </a>
-  <a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
-    <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified AI Practitioner">
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified AI Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url">
+    <img src="https://img.shields.io/badge/Credly-Badge%20Verificado-FF9900?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Verified">
+  </a>
+  <a href="./aws-ai-practitioner/docs/AWS%20Certified%20AI%20Practitioner%20certificate.pdf">
+    <img src="https://img.shields.io/badge/Certificado-PDF%20Oficial-232F3E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Certificado PDF">
+  </a>
+  <a href="./aws-essentials/README.md">
+    <img src="https://img.shields.io/badge/AWS%20Skill%20Builder-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Technical Essentials">
   </a>
   <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
     <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner">
@@ -33,10 +45,10 @@ Cada curso possui sua própria seção com módulos organizados, arquivos de tó
 
 ## 📚 Sumário (Table of Contents)
 
-| Curso | Certificado |
-|-------|-------------|
+| Curso / Certificação | Certificado / Badge |
+|----------------------|---------------------|
 | **[AWS Technical Essentials](./aws-essentials/README.md)** | [![Certificado AWS Technical Essentials](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-essentials/assets/aws-essentials-certificate_png.png)](https://github.com/JoaoIto/aws-skills/blob/main/aws-essentials/assets/aws-essentials-certificate.pdf) |
-| **[AWS Artificial Intelligence Practitioner Learning Plan](./aws-ai-practitioner/README.md)** | 🔄 Em andamento | [Ver plano](./aws-ai-practitioner/README.md) |
+| **[AWS Certified AI Practitioner (AIF-C01)](./aws-ai-practitioner/README.md)** | [![AWS Certified AI Practitioner](https://raw.githubusercontent.com/JoaoIto/aws-skills/refs/heads/main/aws-ai-practitioner/docs/aws-certified-ai-practitioner.png)](https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url) |
 | AWS Cloud Practitioner Essentials | ⏳ Pendente |
 | AWS Solutions Architect – Associate | ⏳ Pendente |
 
@@ -55,15 +67,15 @@ Cada curso possui sua própria seção com módulos organizados, arquivos de tó
       └── IAM, EC2, S3, VPC, RDS, DynamoDB, Lambda, CloudWatch
       └── STATUS: ✅ CONCLUÍDO
 
-  [2] AWS Artificial Intelligence Practitioner Learning Plan  ← ATUAL
+  [2] AWS Certified AI Practitioner (AIF-C01)
       └── Fundamentos de ML e IA
       └── IA Generativa
       └── Modelos de Base
       └── IA Responsável
       └── Segurança e Governança
-      └── STATUS: 🔄 EM ANDAMENTO
+      └── STATUS: ✅ CONCLUÍDO (Certificação Conquistada!)
 
-  [3] AWS Cloud Practitioner Essentials
+  [3] AWS Cloud Practitioner Essentials  ← ATUAL / PRÓXIMO PASSO
       └── STATUS: ⏳ PENDENTE
 
   [4] AWS Solutions Architect – Associate
@@ -97,9 +109,13 @@ aws-skills/
 │   ├── module-05-databases/               # Módulo 5
 │   ├── module-06-monitoring-optimization-and-serverless/  # Módulo 6
 │   └── module-07-course-summary/          # Módulo 7
-├── aws-ai-practitioner/                   # Plano de Estudos AWS AI Practitioner 🔄
-│   ├── README.md                          # README do plano de estudos
-│   └── fundamentals-ml-ai/                # Módulo 1: Fundamentos de ML e IA
+├── aws-ai-practitioner/                   # AWS AI Practitioner ✅ CONCLUÍDO
+│   ├── README.md                          # README da certificação e trilha de estudos
+│   ├── docs/                              # Certificado oficial (PDF) e Badge (PNG)
+│   ├── developing-ML-solutions/           # Módulo: Developing Machine Learning Solutions
+│   ├── fundamentals-ml-ai/                # Módulo: Fundamentos de ML e IA
+│   ├── responsible-AI/                    # Módulo: Diretrizes para IA Responsável
+│   └── use-cases/                         # Módulo: Casos de Uso de IA
 ├── docs/                                  # Documentação oficial em PDF
 │   ├── aif-c01-exam-guide.pdf             # Guia de exame AIF-C01
 │   └── aws-technical-essentials.pdf       # Curso AWS Technical Essentials
@@ -111,8 +127,9 @@ aws-skills/
 
 ## 📌 Conquistas
 
-| Certificado | Data | Link |
-|-------------|------|------|
+| Certificação / Curso | Data | Comprovação |
+|----------------------|------|-------------|
+| **AWS Certified AI Practitioner (AIF-C01)** | Setembro 2026 | [Badge no Credly](https://www.credly.com/badges/2e01b055-6c45-40a6-adcb-0f17328ed345/public_url) • [Certificado PDF](./aws-ai-practitioner/docs/AWS%20Certified%20AI%20Practitioner%20certificate.pdf) |
 | AWS Technical Essentials | 2026 | [Ver certificado](./aws-essentials/assets/aws-essentials-certificate.pdf) |
 
 ---
